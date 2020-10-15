@@ -14,5 +14,4 @@ module.exports = {
     createOrphanage(request, response){
         return response.render('create-orphanage');
     }
-
 }
