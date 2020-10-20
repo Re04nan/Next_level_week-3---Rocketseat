@@ -8,7 +8,9 @@ O projeto "Happy" será feito durante uma semana de aprendizagem e muito network
 </br>
 Rocketseat - fonte: https://rocketseat.com.br/ </br>
 Leaflejs - API utilizada para trabalhar com mapas e localizações. 
-fonte: https://leafletjs.com/
+fonte: https://leafletjs.com/ </br>
+Google Fonts - fonte: https://fonts.google.com/ </br>
+Handlebars - font: https://handlebarsjs.com/
 
 
 <!--
