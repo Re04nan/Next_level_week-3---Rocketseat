@@ -1,4 +1,5 @@
-# Next_level_week-3-Rocketseat
+<img src="https://github.com/Re04nan/Next_level_week-3-Rocketseat/blob/master/public/images/logo-icon.png?raw=true" alt="Logo Happy" title="Happy">
+</br>
 O projeto "Happy" será feito durante uma semana de aprendizagem e muito networking com a @Rocketseat.
 
 
