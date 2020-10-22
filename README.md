@@ -1,5 +1,5 @@
-<p style="color:red;font-size:40px;"> 
-    <img src="https://github.com/Re04nan/Next_level_week-3-Rocketseat/blob/master/public/images/logo-icon.png?raw=true" alt="Logo Happy" title="Happy"> Happy 
+<p > 
+    <img src="https://github.com/Re04nan/Next_level_week-3-Rocketseat/blob/master/public/images/logo-icon.png?raw=true" alt="Logo Happy" title="Happy"><h1>Happy</h1> 
 </p>
 <p>
     O projeto "Happy" foi feito durante uma semana de aprendizagem e muito networking com a <b>@Rocketseat</b>.
