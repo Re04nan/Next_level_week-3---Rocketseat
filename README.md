@@ -2,7 +2,7 @@
 </br>
 O projeto "Happy" foi feito durante uma semana de aprendizagem e muito networking com a @Rocketseat.
 Criamos uma aplicação front-end e back-end, onde é possível localizar orfanatos e qualquer outro local cadastrado, também é possível inserir novos locais no mapa.
-
+</br>
 <img src="https://www.flaticon.com/svg/static/icons/svg/2451/2451617.svg" width="40px"> **Em construção!**
 
 **Créditos:**
