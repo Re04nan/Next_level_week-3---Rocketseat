@@ -1,4 +1,6 @@
+<div align="justify">
 <img src="https://github.com/Re04nan/Next_level_week-3-Rocketseat/blob/master/public/images/logo-icon.png?raw=true" alt="Logo Happy" title="Happy"><h1> Happy</h1> 
+</div>
 <p>
     O projeto "Happy" foi feito durante uma semana de aprendizagem e muito networking com a <b>@Rocketseat</b>.
     Criamos uma aplicação front-end e back-end, onde é possível localizar orfanatos e qualquer outro local cadastrado, também é possível inserir novos locais no mapa.
@@ -12,7 +14,7 @@ Rocketseat - fonte: https://rocketseat.com.br/ </br>
 Leaflejs - API utilizada para trabalhar com mapas e localizações. 
 fonte: https://leafletjs.com/ </br>
 Google Fonts - fonte: https://fonts.google.com/ </br>
-Handlebars - font: https://handlebarsjs.com/
+Handlebars - fonte: https://handlebarsjs.com/
 
 
 <!--
