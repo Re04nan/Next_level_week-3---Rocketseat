@@ -1,11 +1,10 @@
-<div align="justify">
+<div align="center">
 <img src="https://github.com/Re04nan/Next_level_week-3-Rocketseat/blob/master/public/images/logo-icon.png?raw=true" alt="Logo Happy" title="Happy"><h1> Happy</h1> 
-</div>
 <p>
     O projeto "Happy" foi feito durante uma semana de aprendizagem e muito networking com a <b>@Rocketseat</b>.
     Criamos uma aplicação front-end e back-end, onde é possível localizar orfanatos e qualquer outro local cadastrado, também é possível inserir novos locais no mapa.
 </p>
-
+</div>
   <h2 align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/2451/2451617.svg" width="40px"> Em construção! </h2>
 
 **Créditos:**
